@@ -2,8 +2,8 @@
 ## Ripple Effect Creator HTML/CSS/JS
 ### Reference the libraries
 ```
-<link rel="stylesheet" href="css/ds_ripple-0.1.0.css">
-<script type="text/javascript" src="js/ds_ripple-0.1.0.js"></script>
+<link rel="stylesheet" href="css/ds_ripple-0.1.0.min.css">
+<script type="text/javascript" src="js/ds_ripple-0.1.0.min.js"></script>
 ```
 ### Add the class
 ```
