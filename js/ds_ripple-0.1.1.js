@@ -16,6 +16,6 @@ document.addEventListener('DOMContentLoaded', function(){
     target.appendChild(element)
     setTimeout(function(){
       target.removeChild(element)
-    },350)
+    },300)
   }
 })
